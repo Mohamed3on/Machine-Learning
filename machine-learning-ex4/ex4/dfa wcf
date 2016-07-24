@@ -1,0 +1,203 @@
+
+Checking Cost Function (w/ Regularization) ... 
+Cost at parameters (loaded from ex4weights): 0.285780 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.503123 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.501657 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.528498 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.518195 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.498934 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.517029 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.508233 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.522206 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.571309 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.619186 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.431604 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.651623 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.660801 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.693222 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.616934 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.662359 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.630523 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.689239 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.647285 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.710871 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.700817 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.522221 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.795515 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.705050 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.785334 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.727193 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.709253 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.740395 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.726823 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.617059 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.617366 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.642580 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.368881 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.604322 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.563053 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.597889 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.608624 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.532610 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.658623 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.423184 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.447409 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.385416 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.415939 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.210317 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.409594 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.448847 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.395149 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.419801 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.388126 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.707066 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.708941 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.798145 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.698978 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.733674 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.490961 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.803676 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.731036 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.759155 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.701579 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.490799 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.532552 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.515457 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.477777 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.548843 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.572299 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.283282 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.565927 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.461099 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.500667 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.038043 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.053181 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.051720 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.067285 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.046537 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.065652 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.107195 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.863271 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.055989 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 1.083102 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.766128 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.789384 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.749225 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.709762 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.755467 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.772329 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.710992 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.734442 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.556798 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.764578 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.834265 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.770978 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.770072 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.803775 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.739996 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.756891 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.776651 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.759612 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.803912 
+(this value should be about 0.383770)
+Cost at parameters (loaded from ex4weights): 0.524071 
+(this value should be about 0.383770)
+Program paused. Press enter to continue.
